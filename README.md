@@ -15,6 +15,10 @@ Neste primeiro projeto, estou praticando as funções básicas de uso da platafo
 
 [Guia prático Git/Github](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
+[Download github - Desktop](https://desktop.github.com/)
+
+[Download Git e pacotes](https://git-scm.com/downloads)
+
 
 ## Livros e artigos para leitura
 
