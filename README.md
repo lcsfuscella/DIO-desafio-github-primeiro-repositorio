@@ -1,8 +1,11 @@
-![Potência Tech Angular Developer - Powered by iFood](https://hermes.digitalinnovation.one/files/assets/c246248e-f374-4905-9154-1a5bf3ea4f8a.png)
+1. <img src="C:\Users\lucas\Downloads\LOGO-DIO-COLOR (2).png" alt="LOGO-DIO-COLOR (2)" style="zoom: 33%;" />
+
+<img src="https://hermes.digitalinnovation.one/companies/0018735d-ee63-4064-bc29-55a2ef0f0ff0.png" alt="img" style="zoom:50%;" />
 
 
 
 # Desafio de projeto sobre Git/Github da DIO.
+
 
 
 ## Repositório criado para o desafio de projeto
