@@ -1,0 +1,10 @@
+links úteis
+
+Guia de sitáxe basica Markdown
+https://www.markdownguide.org/
+
+Download github - Desktop
+https://desktop.github.com/
+
+Download Git e pacotes
+https://git-scm.com/downloads
