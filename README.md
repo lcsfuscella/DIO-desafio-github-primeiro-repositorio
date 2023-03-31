@@ -11,7 +11,8 @@ Neste primeiro projeto, estou praticando as funções básicas de uso da platafo
 
 ## links úteis
 
-[Sintaxe basica Markdown](https://www.markdownguide.org/)
+[Sintaxe básica Markdown](https://www.markdownguide.org/)
+
 [Guia prático Git/Github](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 
 
